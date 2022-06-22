@@ -3,7 +3,6 @@
         <img width="100" src="https://halo.run/logo" alt="Halo logo" />
     </a>
 </p>
-
 <p align="center"><b>Halo</b> [ˈheɪloʊ]，一款现代化的开源博客/CMS系统，值得一试。</p>
 
 
